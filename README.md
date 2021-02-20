@@ -1,0 +1,2 @@
+# Cascade-Classifier-Testing-GUI
+This is the GUI for testing multiple cascades on single image. It creates python program for testing classifiers with the help of GUI. This is a executable standalone file (.exe) which could be executed even though python is not installed on machine. So you can do object detection without writing a single line of code. Well the build is still under progress so stay tuned.
