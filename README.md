@@ -3,7 +3,7 @@
 Here is the Executable
 https://drive.google.com/file/d/1dArVIs2amlVeRIe-xsByD7PxuIzzmkz8/view?usp=sharing
 
-![](https://github.com/ultimus11/Cascade-Classifier-Testing-GUI/tree/main/code/part3/Untitled.png)
+![](https://github.com/ultimus11/Cascade-Classifier-Testing-GUI/blob/main/code/part3/Untitled.png)
 
 This is the GUI for testing multiple cascades on single image. It creates python program for testing classifiers with the help of GUI. This is a executable standalone file (.exe) which could be executed even though python is not installed on machine. So you can do object detection without writing a single line of code.
 
