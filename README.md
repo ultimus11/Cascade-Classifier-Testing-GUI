@@ -1,6 +1,6 @@
 # Cascade-Classifier-Testing-GUI
 
-Here the Executable
+Here is the Executable
 https://drive.google.com/file/d/1dArVIs2amlVeRIe-xsByD7PxuIzzmkz8/view?usp=sharing
 
 
